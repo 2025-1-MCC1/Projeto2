@@ -10,7 +10,7 @@
   <img src="imagens/beyondworlds.png" alt="Logo Beyond Worlds" width="300">
 </p>
 
-## Grupo: Beyond Worlds
+## Grupo: Byte Brothers
 
 ## Integrantes:
 - Ana Clara Keiko Ribeiro Hagiwara da Silva  
