@@ -6,9 +6,7 @@
 
 # Beyond Worlds
 
-<p align="center">
-  <img src="imagens/beyondworlds.png" alt="Logo Beyond Worlds" width="300">
-</p>
+
 
 ## Grupo: Byte Brothers
 
