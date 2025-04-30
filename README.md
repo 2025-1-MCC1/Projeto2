@@ -38,12 +38,3 @@ No comando de uma missão interplanetária, o jogador será responsável por col
 O jogo une estratégia, gerenciamento e sobrevivência, com inspiração em títulos como *Minecraft*, *Cities: Skylines* e *No Man's Sky*.
 
 ---
-
-
-Faça o download do arquivo `BeyondWorlds.apk` no celular.  
-Execute o APK e siga as instruções do seu dispositivo.
-
-```sh
-# Exemplo de instalação (opcional)
-adb install BeyondWorlds.apk
-
