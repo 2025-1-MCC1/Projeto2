@@ -14,18 +14,9 @@
 
 ## Grupo: Byte Brothers
 
-## Integrantes:
-- Ana Clara Keiko Ribeiro Hagiwara da Silva  
-- Gabriel Vazquez Mamede Diniz  
-- Luiz Miguel de Toledo
-
-## Professores Orientadores:
-- Adriano Felix Valente  
-- Joyce Daniele Tavares  
-- Luis Fernando dos Santos Pires  
-- David de Oliveira Lemes  
-- Renata Muniz do Nascimento  
-- Victor Bruno Alexander Rosetti de Quiroz  
+## Integrantes: <a href="https://www.linkedin.com/in/ana-clara-keiko-ribeiro-da-silva-970063341">Ana Clara Keiko Ribeiro Hagiwara da Silva</a>, <a href="www.linkedin.com/in/gabriel-diniz-b4a233345">Gabriel Vazquez Mamede Diniz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luiz Miguel de Toledo</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="www.linkedin.com/in/gabriel-diniz-b4a233345">Joyce Daniele Tavares</a>, <a href="https://www.linkedin.com/in/luisspires/">Luis Fernando dos Santos Pires</a>, <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4126458J6">David de Oliveira Lemos</a>, <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4933661J8">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
+  
 
 ## Descrição
 
