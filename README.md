@@ -39,29 +39,6 @@ O jogo une estratégia, gerenciamento e sobrevivência, com inspiração em tít
 
 ---
 
-## 🛠 Estrutura de pastas
-
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->Entrega 1<br>
-  &emsp;|-->Entrega 2<br>
-|-->src<br>
-  &emsp;|-->Jogo<br>
-  &emsp;&emsp;|-->Entrega 1<br>
-  &emsp;&emsp;|-->Entrega 2<br>
-|readme.md<br>
-
-A pasta raiz contém este arquivo `README.md`, que serve como guia e explicação geral sobre o projeto.
-
-- **documentos**: Abriga as tarefas e entregas de cada disciplina do semestre.  
-- **src/Jogo**: Contém o projeto do jogo, organizado por entregas.
-
----
-
-## 🛠 Instalação
-
-<b>Android:</b>
 
 Faça o download do arquivo `BeyondWorlds.apk` no celular.  
 Execute o APK e siga as instruções do seu dispositivo.
