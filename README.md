@@ -7,7 +7,7 @@
 # Beyond Mars
 
 <p align="center">
-  <img src="imagens/beyondworlds.png" width="300">
+  <img src="imagens/beyondmars.png.jpeg" width="300">
 </p>
 
 
