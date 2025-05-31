@@ -40,7 +40,7 @@ No comando de uma missão interplanetária, o jogador será responsável por col
 - <ins>Referências</ins>: No Man's Sky, Empyrion Galactic Survival e Minecraft. 
 
 ## 🎥 Trailer do Jogo
-[Em andamento]
+Acesse o link: https://www.youtube.com/watch?v=6ekx4BGPgkw
 
 ## 🗂 Estrutura de Pastas
 |-->src  
